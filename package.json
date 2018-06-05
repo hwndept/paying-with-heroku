@@ -1,0 +1,19 @@
+{
+  "name": "playing-with-heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwndept/playing-with-heroku.git"
+  },
+  "author": "Nikolay Shatalov <hwndept@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwndept/playing-with-heroku/issues"
+  },
+  "homepage": "https://github.com/hwndept/playing-with-heroku#readme",
+  "description": ""
+}
